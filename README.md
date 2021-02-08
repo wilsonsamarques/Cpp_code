@@ -1,2 +1,2 @@
 # Cpp_code
-This repository contains C++ scrips about basic concepts of the language. 
+This repository contains C++ scripts about basic concepts of the language. 
