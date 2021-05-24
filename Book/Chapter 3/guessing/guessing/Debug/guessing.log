@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\wilson\Documents\git_projects\Cpp_code\Book\guessing\guessing\main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  guessing.vcxproj -> C:\Users\wilson\Documents\git_projects\Cpp_code\Book\guessing\Debug\guessing.exe
